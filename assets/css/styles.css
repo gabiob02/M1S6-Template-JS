@@ -5,3 +5,17 @@
 .text-blue {
     color: #007bff;
 }
+
+.btn-primary {
+    background-color: pink;
+    border-color: pink;
+    color: white;
+}
+
+
+.btn-primary: :hover{
+    background-color: pink;
+    border-color: pink;
+    color: white;
+}
+
